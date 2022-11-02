@@ -1,3 +1,3 @@
 # Sales-Analysis
 
-Run oon jupyter to see interactive plots 
+Run on the jupyter to see interactive plots 
